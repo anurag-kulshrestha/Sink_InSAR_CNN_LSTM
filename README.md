@@ -1,4 +1,4 @@
-# Sink_InSAR_CNN_LSTM
+# Sinkhole detection in InSAR interferograms using CNN and LSTM
 Code name: X-BBox
 Author: Anurag Kulshrestha
 Purpose: Code for extracting training tiles and using U-Net and CNN-LSTM to learn
